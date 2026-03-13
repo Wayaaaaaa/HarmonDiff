@@ -10,4 +10,5 @@ We will make our code publicly available once the paper is accepted.
 
 ## Overview
 
-![Network Architecture Diagram](D:\desktop1\README\1.png)
+
+![Network Architecture Diagram](1.png)
